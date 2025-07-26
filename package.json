@@ -2,7 +2,7 @@
   "name": "dompile-starter",
   "type": "module",
   "scripts": {
-    "build": "npx dompile build src dist",
-    "dev": "npx dompile watch src dist --port 3000"
+    "build": "npx dompile build",
+    "dev": "npx dompile serve"
   }
 }
