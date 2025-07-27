@@ -2,7 +2,7 @@
   "name": "dompile-starter",
   "type": "module",
   "scripts": {
-    "build": "npx dompile build",
-    "dev": "npx dompile serve"
+    "build": "npx dompile/cli build",
+    "dev": "npx dompile/cli serve"
   }
 }
