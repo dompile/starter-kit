@@ -1,29 +1,29 @@
-# DOMpile Starter Kit
+# dompile Starter Kit
 
-Welcome to the **DOMpile Starter Kit**, a minimal scaffolding to get started building static sites with [DOMpile](https://npmjs.com/package/dompile).
+Welcome to the **dompile Starter Kit**, a minimal scaffolding to get started building static sites with [dompile](https://github.com/dompile/cli).
 
-DOMpile is a zero-boilerplate, convention-based static site generator that uses only standard HTML and a single `<include />` element to provide layouts, component includes, and scoped styles/scripts — all at build time.
+![dompile banner](src/assets/dompile-banner.png)
+
+dompile is a zero-boilerplate, convention-based static site generator that uses only standard HTML and a single `<include />` element to provide layouts, component includes, and scoped styles/scripts - all at build time.
 
 ## 🚀 Getting Started
 
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/yourname/dompile-starter my-site
+git clone https://github.com/dompile/starter-kit my-site
 cd my-site
 ```
 
-### 2. Install dependencies
+### 2. Preview your site
 
 ```bash
-npm install
+npm run dev
 ```
 
-### 3. Build your site
+### 3. Add Your Content
 
-```bash
-npm run build
-```
+Now you can begin editing the files in the `src/` to see your changes updated in the browser in realtime.
 
 The built site will appear in the `dist/` folder.
 
@@ -35,11 +35,10 @@ my-site/
 │   └── card.html
 ├── layouts/
 │   └── default.html
-├── pages/
-│   └── index.html
+└── index.html
 ├── dist/
 ├── package.json
 └── README.md
 ```
 
-Happy hacking with ✨ **DOMpile** ✨
+Happy hacking with ✨ **dompile** ✨
