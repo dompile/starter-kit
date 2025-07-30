@@ -1,17 +1,17 @@
-# dompile Starter Kit
+# Unify Starter Kit
 
-Welcome to the **dompile Starter Kit**, a minimal scaffolding to get started building static sites with [dompile](https://github.com/dompile/cli).
+Welcome to the **Unify Starter Kit**, a minimal scaffolding to get started building static sites with [Unify](https://github.com/fwdslsh/unify).
 
-![dompile banner](src/assets/dompile-banner.png)
+![Unify banner](src/assets/unify-banner.png)
 
-dompile is a zero-boilerplate, convention-based static site generator that uses only standard HTML and a single `<include />` element to provide layouts, component includes, and scoped styles/scripts - all at build time.
+Unify is a zero-boilerplate, convention-based static site generator that uses only standard HTML and a single `<include />` element to provide layouts, component includes, and scoped styles/scripts - all at build time.
 
 ## 🚀 Getting Started
 
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/dompile/starter-kit my-site
+git clone https://github.com/fwdslsh/unify-starter-kit my-site
 cd my-site
 ```
 
@@ -41,4 +41,4 @@ my-site/
 └── README.md
 ```
 
-Happy hacking with ✨ **dompile** ✨
+Happy hacking with ✨ **Unify** ✨
